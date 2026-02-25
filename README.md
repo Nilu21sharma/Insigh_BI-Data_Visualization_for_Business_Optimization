@@ -87,10 +87,4 @@ This dashboard helps visualize these gaps and provides insights for optimization
 <img width="804" height="457" alt="Screenshot 2026-02-25 180144" src="https://github.com/user-attachments/assets/4e97f4f0-aee4-47a9-9695-4ff436f4924b" />
 
 
-## 👤 Author
 
-**Nilu Sharma**  
-MSc Data Science (Pursuing)  
-Data Analyst | Power BI | SQL | Excel | Python  
-
----
